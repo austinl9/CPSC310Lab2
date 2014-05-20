@@ -28,6 +28,11 @@ import com.google.gwt.user.client.ui.Anchor;
 import com.google.gwt.user.client.rpc.AsyncCallback;
 import com.google.gwt.core.client.GWT;
 
+
+
+// TEST 123 FIRST EDIT
+// HOPE IT WORKS FINGERS CROSSED
+
 public class StockWatcher implements EntryPoint {
 	private static final int REFRESH_INTERVAL = 5000; // ms
 	private VerticalPanel mainPanel = new VerticalPanel();  
